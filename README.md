@@ -2,14 +2,13 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-I am a creative, ambitious **Full Stack Junior Developer**, excited to start my new career path in the growing Tech industry. I have recently completed
-a 16 week intensive Coding Bootcamp at Makers Academy, which has instilled in me the drive to continue enjoying my self-learning with a growth oriented mind-set.
+I am an ambitious **Full Stack Junior Developer**, excited to start my new career path in the growing Tech industry. I have recently completed
+a 16-week intensive Coding Bootcamp at Makers Academy, which has instilled in me the drive to continue enjoying my self-learning with a growth-oriented mind-set.
 I am looking forward to expanding my analytical and creative problem solving skills to start creating code with real world benefits.
 
 
-My background as a musician allows me to think on the fly and pick up and retain patterns very quickly. As an economist I got used to systematically breaking down large 
-sets of statistics, whilst being hod carrier showed that I could gain immense satisfaction from working extremely hard and seeing creations coming to fruition.
-
+My background as a musician allows me to think on the fly and pick up and retain patterns very quickly. Through my Economics studies, I learned how to break down large sets of statistics into useful data and insights. 
+At the other extreme, my practical building site experience demonstrates that I derive satisfaction from working consistently hard and seeing creations coming to fruition.
 
 ### <a name="projects">Projects</a>
 
@@ -27,16 +26,18 @@ All source code available on Github [profile](https://github.com/felixtaljaard)
 
 
 
-**Fast Learner** - Able to adapt and learn new technologies quickly, having learned many different languages over the course of the bootcamp, from picking up Postgres SQL in a week, to creating a full stack web app using Handlebars the next. 
-                I believe my musical background is very beneficial for this as it involves learning and then remembering huge amounts of information as 
-               quickly as possible. I am also starting to programme music, which has helped me to learn to pick up new technologies quicker.
+**Fast Learner** - Able to adapt and learn new technologies quickly, having learned many different languages over the course of the bootcamp, from picking up Postgres SQL
+in a week, to creating a full stack web app using Handlebars the next. I believe my musical background is very beneficial 
+for this as it involves learning, recalling and distilling multiple elements of information efficiently. I am also starting to programme music,
+which has helped me to learn to pick up new technologies quicker.
 
-**Creative** -     I have played Drums, Guitar and Bass for over 10 years and I am a huge fan of improvising, which improves both your leading and your listening skills, as well
-               as honing your skill to think in creative ways on the fly and not get flustered when things don't go perfectly.
+**Hard Worker** - I like my work to have a purpose and a competitive edge. I developed my passion for hard work on a building site moving bricks 
+and cement all day: I enjoyed the exercise and the immediate satisfaction of seeing the results of my labour. Also gained valuable perspective on
+working life. Similarly, I enjoyed the bootcamp. The learning environment was very intense. Having to manage so many new techniques and information 
+being thrown at you was sometimes daunting, but this reinforced ignited my passion to learn.
 
-**Hard Worker** -  I learned to love working hard on a building site moving bricks and cement all day, as I enjoyed the exercise and getting the immediate satisfaction of seeing the results of my labour, as well as gaining valuable perspective on working life.
-                    This, too, is what I enjoyed about the bootcamp as it was very intense with so much information being thrown at you, and at times was overwhelming, but ultimately ignited my love for learning.
-
+**Creative** -  I play Drums, Guitar and Bass and particularly enjoy improvising. This requires both leading and listening skills, and combines being creative when ad-libbing, 
+whilst not getting flustered if things don't go perfectly.
 
 
 ### <a name="education">Education</a>
@@ -49,12 +50,9 @@ This course teaches the importance of self-learning, the Agile process, object-o
 development as well as software design, culminating in the creation of a group engineering project. 
 
 
-
-
 #### Bristol University (September 2013 - August 2017)
 
-- Economics Bsc 
-- Diploma 
+- Economics Bsc, Diploma 
 - Member of Live music and Rock Scocieties.
 
 #### Haberdasher's Aske's Boys' School (2007 - 2013)
@@ -62,11 +60,6 @@ development as well as software design, culminating in the creation of a group e
 A-levels - Maths (A*), Physics (A), Economics (A)
 
 GCSE's - 8 A*'s, 2 A's
-
-- Particular interests in Maths, Science, Sport
-- Grade 6 Trombone, Violin
-- Tennis coach
-
 
 
 ### <a name="experience">Work Experience</a>
@@ -102,9 +95,15 @@ I improved my communication skills with both co-workers and clients, as well as 
 ### <a name="hobbies">Hobbies</a>
 
 - Music - Drums, Guitar, Bass, Trombone, Violin 
-- Rugby
-- Tennis
+- Rugby - Retired injured(!)
+- Tennis, coaching
 - Skiing
 - Video Games
+- Pub Quizzes
+
+### Other information
+
+- Clean driving license
+- Casual/Conversational French and German
 
 
